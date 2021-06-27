@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5BF1A86F-0879-4E62-85ED-BD8910E85C53"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5CCC731-74E9-4240-82A4-F3429C0902B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "clickChange()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5CCC731-74E9-4240-82A4-F3429C0902B3 - 41037ea998628cfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aProject.ViewController.clickChange() -&gt; ()"
+                  moduleName = "aProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/min.liu/Desktop/min/swift/aProject/aProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "1524">
+               </Location>
+               <Location
+                  uuid = "B5CCC731-74E9-4240-82A4-F3429C0902B3 - 42e1b297658055ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in aProject.ViewController.clickChange() -&gt; ()"
+                  moduleName = "aProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/min.liu/Desktop/min/swift/aProject/aProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
