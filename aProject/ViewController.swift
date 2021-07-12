@@ -26,9 +26,9 @@ class ViewController: UIViewController ,UITextFieldDelegate{
     }
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         // 結束編輯 把鍵盤隱藏起來
+//        self.clickChange()
+        myTextField?.resignFirstResponder() //要求離開我們的Responder
         self.view.endEditing(true)
-        self.clickChange()
-        
         return true
     }
 
@@ -165,7 +165,9 @@ class ViewController: UIViewController ,UITextFieldDelegate{
     }
     @objc func clickChange(){
         //有文字內容且大於1
-        if !(myTextField?.text!.isEmpty)! && (myTextField?.text!.hashValue)! > 1{
+        let textfieldInt: Int? = Int((myTextField?.text!)!)
+        if !(myTextField?.text!.isEmpty)! && textfieldInt! > 1{
+            print("coins is = \((myTextField?.text)!)")
             let url = "https://api.guildwars2.com/v2/commerce/exchange/gems?quantity=" + (myTextField?.text)!
             Alamofire.request(url).validate().responseJSON { response in
                     switch response.result {

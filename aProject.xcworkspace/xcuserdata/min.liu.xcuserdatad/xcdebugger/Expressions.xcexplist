@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "JGTableBarController.tabChange():JGTableBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arr2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.clickChange():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "myTextField?.text!.isEmpty">
+            </PersistentString>
+            <PersistentString
+               value = "myTextField?.text!.hashValue">
+            </PersistentString>
+            <PersistentString
+               value = "myTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

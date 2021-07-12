@@ -7,20 +7,52 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "B5CCC731-74E9-4240-82A4-F3429C0902B3"
+            uuid = "FB14D7AF-10F2-4835-937A-9C8C2E3694A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aProject/JGTableBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "tabBar(_:didSelect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72FEFC24-324D-41C9-936F-00DD5B6D0E5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aProject/JGTableBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "tabBarController(_:didSelect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A10794BF-875C-41FB-AA3F-9F9624CF0FC4"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "aProject/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "170"
-            endingLineNumber = "170"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
             landmarkName = "clickChange()"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "B5CCC731-74E9-4240-82A4-F3429C0902B3 - 41037ea998628cfd"
+                  uuid = "A10794BF-875C-41FB-AA3F-9F9624CF0FC4 - 41037ea998628cfd"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -32,22 +64,22 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "169"
                   endingLineNumber = "169"
-                  offsetFromSymbolStart = "1524">
+                  offsetFromSymbolStart = "548">
                </Location>
                <Location
-                  uuid = "B5CCC731-74E9-4240-82A4-F3429C0902B3 - 42e1b297658055ec"
+                  uuid = "A10794BF-875C-41FB-AA3F-9F9624CF0FC4 - 41037ea998628cfd"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in aProject.ViewController.clickChange() -&gt; ()"
+                  symbolName = "aProject.ViewController.clickChange() -&gt; ()"
                   moduleName = "aProject"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/min.liu/Desktop/min/swift/aProject/aProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "170"
-                  endingLineNumber = "170"
-                  offsetFromSymbolStart = "104">
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "2892">
                </Location>
             </Locations>
          </BreakpointContent>
