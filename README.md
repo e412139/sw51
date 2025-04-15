@@ -10,7 +10,7 @@
 - UINavigationController 換頁運用
 
 ## 整體架構與流程說明
-- 我在試著模擬登入畫面進到遊戲這一個 viewControlleru 應用
+- 我在試著模擬登入畫面進到遊戲這一個 viewController 應用
 - SceneDelegate
   建立 UIWindow，並指定 rootViewController = JGTableBarController()，即從 UITabBarController 開始
   一開始 tab bar 被隱藏，會先顯示 LunchViewController
